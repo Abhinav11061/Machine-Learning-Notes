@@ -1,1 +1,1 @@
-These files are only reading purpose.
+These files are exclusively designed for individuals interested in delving into the realms of machine learning and data science, offering comprehensive insights into the fundamentals of basic machine learning models. Whether you are a novice eager to comprehend the essentials or a seasoned enthusiast looking to reinforce your understanding, these resources provide valuable knowledge and guidance.
